@@ -1,4 +1,5 @@
 hello world
 public string
-:wq
+int a=100
+void main
 
