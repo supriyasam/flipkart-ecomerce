@@ -1,5 +1,5 @@
 hello world
 public string
-int a=100
+int a=10
 void main
 
