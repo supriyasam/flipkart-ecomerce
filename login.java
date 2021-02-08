@@ -1,4 +1,4 @@
 hello world
 public string
-:wq
+int a=10
 
